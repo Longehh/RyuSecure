@@ -1,0 +1,19 @@
+#  _____              _____                          
+# |  __ \            / ____|                         
+# | |__) |   _ _   _| (___   ___  ___ _   _ _ __ ___ 
+# |  _  / | | | | | |\___ \ / _ \/ __| | | | '__/ _ \
+# | | \ \ |_| | |_| |____) |  __/ (__| |_| | | |  __/
+# |_|  \_\__, |\__,_|_____/ \___|\___|\__,_|_|  \___|
+#         __/ |                                      
+#        |___/                                       
+#
+securityPermission: "ryusecure.staff"
+forceLogin: true
+preventions:
+  commandBlocker: true
+  blockBreakEvent: true
+  blockPlaceEvent: true
+  playerMoveEvent: true
+  itemDropEvent: true
+  playerChatEvent: true
+  

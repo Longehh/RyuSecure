@@ -1,0 +1,10 @@
+name: RyuSecure
+main: cc.ryujingames.security.RyuSecure
+version: 1.0-STABLE
+author: Longeh
+description: Forces staff members with a certain permssion node to login.
+commands:
+  login:
+    description: Used by staff to login to their account by using a password.
+  register:
+    description: Used by staff in order to register their account.
