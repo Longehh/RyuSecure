@@ -9,3 +9,6 @@ and /register from console logs, as well as IP Addresses of players when they jo
 Why choose this over StaffSecure?
 - RyuSecure uses Argon2 to hash all data i.e. Passwords, and IP Addresses whereas Staff Secure uses MD5 which someone can easily crack if the system was breached.
 
+Servers using or have used RyuSecure:
+- MapleCraftMC
+- OstiaPvP
